@@ -19,7 +19,6 @@ Crafting polished, production-ready mobile experiences 🚀
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -56,7 +55,7 @@ I bring intelligence to applications using Python:
 ## 🌐 Web & Tools
 
 - **Web:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub Actions, Figma, Postman, Android Studio, VS Code
+- **Tools:** Git, GitHub Actions, Postman, Android Studio, VS Code
 
 ---
 
