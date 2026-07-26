@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Najam
 
-📱 Flutter Developer | Full-Stack: Firebase, Supabase, MongoDB, Node.js, Python (AI/ML), Web  
+📱 Flutter Developer | Firebase, Supabase, MongoDB | Python (AI/ML)  
 Crafting polished, production-ready mobile experiences 🚀
 
 ---
@@ -12,12 +12,8 @@ Crafting polished, production-ready mobile experiences 🚀
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -35,7 +31,6 @@ I build **cross-platform** applications that feel native, perform well, and scal
 
 ## 🗄️ Backend & Databases
 
-- **Node.js** — REST APIs, WebSockets, real-time features
 - **Firebase** — Authentication, Firestore, Cloud Functions, Push Notifications
 - **Supabase** — PostgreSQL, Authentication, Realtime, Storage
 - **MongoDB** — NoSQL databases for flexible data modeling
@@ -46,16 +41,9 @@ I build **cross-platform** applications that feel native, perform well, and scal
 
 I bring intelligence to applications using Python:
 
-- **Machine Learning:** TensorFlow, Scikit-learn, PyTorch
-- **Data Processing:** Pandas, NumPy, Matplotlib
-- **Model Deployment:** REST APIs, TensorFlow Lite for on-device AI
-
----
-
-## 🌐 Web & Tools
-
-- **Web:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub Actions, Postman, Android Studio, VS Code
+- **AI Integration:** OpenAI APIs, recommendation systems
+- **Data Processing:** Pandas, NumPy
+- **Model Deployment:** TensorFlow Lite for on-device AI
 
 ---
 
